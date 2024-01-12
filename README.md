@@ -75,6 +75,4 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
 
-Feel free to customize the README to better fit your project's specifics, such as the repository URL, additional setup instructions, and any other relevant information.
