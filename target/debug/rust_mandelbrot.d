@@ -1,0 +1,1 @@
+/Users/amisha.rajesh/rust_mandelbrot/target/debug/rust_mandelbrot: /Users/amisha.rajesh/rust_mandelbrot/src/main.rs /Users/amisha.rajesh/rust_mandelbrot/src/mandelbrot.rs /Users/amisha.rajesh/rust_mandelbrot/src/ws_handlers.rs
